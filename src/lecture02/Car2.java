@@ -1,13 +1,14 @@
 package lecture02;
 
-public class Car {
+public class Car2 {
     int fuel;
     Tire[] tires;
-    Engine engine;
+    Engine2 engine;
 
-    Car(){
+    Car2(Tire[] tires,Engine2 engine){
         fuel = 0;
-
+        this.tires = tires;
+        this.engine = engine;
     }
 
     void run(){
@@ -21,10 +22,13 @@ public class Car {
     }
 
     void startEngine(){
-        Engine E = new Engine(engine.rpm);
+
+
+        Engine2 E = new Engine2(engine.rpm);
 
         E.start();
 
     }
 
 }
+

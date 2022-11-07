@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b614721-2800-45ed-a968-01349769c1a9" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lecture02/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture02/GasStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture02/kadai2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture02/Car2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture02/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture02/Engine2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture02/GasStation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture02/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture02/kadai2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture03/Exercecize3_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture02/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture02/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture02/kadai2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture02/kadai2_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +48,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="アプリケーション.kadai2_2">
+  <component name="RunManager" selected="アプリケーション.kadai2_3">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecture01.Main" />
       <module name="Project_a" />
@@ -83,19 +88,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kadai2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture02.kadai2_1" />
-      <module name="Project_a" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecture02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="kadai2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecture02.kadai2_2" />
       <module name="Project_a" />
@@ -109,13 +101,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="kadai2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture02.kadai2_3" />
+      <module name="Project_a" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.kadai2_3" />
         <item itemvalue="アプリケーション.kadai2_2" />
         <item itemvalue="アプリケーション.kadai1_5" />
         <item itemvalue="アプリケーション.kadai1_4" />
         <item itemvalue="アプリケーション.Main" />
-        <item itemvalue="アプリケーション.kadai2_1" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +134,9 @@
       <updated>1667303151517</updated>
       <workItem from="1667303153463" duration="1158000" />
       <workItem from="1667304411465" duration="12000" />
-      <workItem from="1667352823367" duration="3884000" />
+      <workItem from="1667352823367" duration="14730000" />
+      <workItem from="1667722477830" duration="37000" />
+      <workItem from="1667779943806" duration="958000" />
     </task>
     <servers />
   </component>
@@ -164,6 +171,11 @@
           <url>file://$PROJECT_DIR$/src/lecture02/kadai2_1.java</url>
           <line>4</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lecture02/kadai2_3.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
