@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b614721-2800-45ed-a968-01349769c1a9" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lecture02/Car2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture02/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture02/Engine2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture02/GasStation2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture02/Tire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture02/kadai2_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture03/Exercecize3_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture02/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture02/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture02/kadai2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture02/kadai2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture03/Exercecize3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture03/Exercecize3_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +40,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="アプリケーション.kadai2_3">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture01.Main" />
+  <component name="RunManager" selected="アプリケーション.Exercecize3_1">
+    <configuration name="Exercecize3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture03.Exercecize3_1" />
       <module name="Project_a" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture01.*" />
+          <option name="PATTERN" value="lecture03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.Exercecize3_1" />
         <item itemvalue="アプリケーション.kadai2_3" />
         <item itemvalue="アプリケーション.kadai2_2" />
         <item itemvalue="アプリケーション.kadai1_5" />
         <item itemvalue="アプリケーション.kadai1_4" />
-        <item itemvalue="アプリケーション.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +128,8 @@
       <workItem from="1667304411465" duration="12000" />
       <workItem from="1667352823367" duration="14730000" />
       <workItem from="1667722477830" duration="37000" />
-      <workItem from="1667779943806" duration="958000" />
+      <workItem from="1667779943806" duration="1559000" />
+      <workItem from="1667790304924" duration="1851000" />
     </task>
     <servers />
   </component>
