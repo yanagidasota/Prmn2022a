@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b614721-2800-45ed-a968-01349769c1a9" name="変更" comment="課題4_1">
-      <change afterPath="$PROJECT_DIR$/src/lecture05/Exercise5_5.java" afterDir="false" />
-    </list>
+    <list default="true" id="7b614721-2800-45ed-a968-01349769c1a9" name="変更" comment="課題4_1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +128,7 @@
       <workItem from="1667779943806" duration="1559000" />
       <workItem from="1667790304924" duration="6550000" />
       <workItem from="1667929534787" duration="9071000" />
-      <workItem from="1668085747616" duration="1896000" />
+      <workItem from="1668085747616" duration="2198000" />
     </task>
     <task id="LOCAL-00001" summary="課題4_1">
       <created>1668053603662</created>
