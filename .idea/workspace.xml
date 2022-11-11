@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b614721-2800-45ed-a968-01349769c1a9" name="変更" comment="課題4_1">
-      <change afterPath="$PROJECT_DIR$/src/lecture06/Exercise6_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture06/Exercise6_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture04/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture04/ATM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture04/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture04/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture04/Fighter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture04/Fighter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture06/Exercise6_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture06/Exercise6_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +131,7 @@
       <workItem from="1667779943806" duration="1559000" />
       <workItem from="1667790304924" duration="6550000" />
       <workItem from="1667929534787" duration="9071000" />
-      <workItem from="1668085747616" duration="6960000" />
+      <workItem from="1668085747616" duration="10869000" />
     </task>
     <task id="LOCAL-00001" summary="課題4_1">
       <created>1668053603662</created>
