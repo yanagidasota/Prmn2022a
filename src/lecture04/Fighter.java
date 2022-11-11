@@ -5,7 +5,7 @@ public class Fighter {
     private int power;
     private String name;
     public Fighter(int hitPoint,int power,String name){
-        this.hitPoint = hitPoint;
+        setHitPoint(hitPoint);
         this.power = power;
         this.name = name;
     }

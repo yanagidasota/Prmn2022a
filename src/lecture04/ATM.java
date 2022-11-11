@@ -16,7 +16,7 @@ public class ATM {
     }
     public boolean exitsAccount(String name,String number){
         for(Account account : accountList){
-            if(name == account.name && number == account.number){
+            if(name == account.getName() && number == account.getNumber()){
                 System.out.println("名前:"+name+" 口座番号:"+number+"は存在します。");
                 return true;
             }
@@ -26,24 +26,25 @@ public class ATM {
     }
     public void deposit(String number,long money){
         for(Account account : accountList){
-            if(number == account.number){
-                account.balance += money;
-                System.out.println("口座番号:"+account.number+"に"+money+"円入金しました。");
+            if(number == account.getNumber()){
+                account.setBalance(money);
+                System.out.println("口座番号:"+account.getNumber()+"に"+money+"円入金しました。");
             }
         }
     }
     public long withdraw(String number,long money){
         for(Account account : accountList){
-            if(number == account.number) {
-                if(account.balance <  money){
-                    System.out.println("口座番号:"+number+"から"+money+"円引き出せませんでした。残高:"+account.balance+"円です。");
-                } else if (account.balance >= money) {
-                    account.balance -= money;
-                    System.out.println("口座番号:"+number+"から"+money+"円引き出しました。残高:"+account.balance+"円です。");
+            if(number == account.getNumber()) {
+                if(account.getBalance() <  money){
+                    System.out.println("口座番号:"+number+"から"+money+"円引き出せませんでした。残高:"+account.getBalance()+"円です。");
+                } else if (account.getBalance() >= money) {
+                    account.setBalance(-money);
+                    System.out.println("口座番号:"+number+"から"+money+"円引き出しました。残高:"+account.getBalance()+"円です。");
                     return  money;
                 }
             }
         }
         return 0;
     }
+
 }
